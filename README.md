@@ -43,24 +43,3 @@ npx sequelize-cli db:seed:all
 
 npm run dev
 ```
-
-# WEB
-
-## Introduction - The Project's Aim
-
-## Technologies
-
-Nodejs
-
-## How to run this App ?
-
-To run the WEB you have to change some environment variables
-
-APP_URL= url of the API of this project (for example: http://localhost:8000).
-Then you have to install dependencies using the command.
-
-- npm install
-
-To run the API use the command.
-
-- npm run dev
